@@ -1,0 +1,17 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\bin\Debug\WPFproyectoMascota.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\bin\Debug\WPFproyectoMascota.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\bin\Debug\WPFproyectoMascota.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.Form1.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoMascota\WPFproyectoMascota\obj\Debug\WPFproyectoMascota.pdb
